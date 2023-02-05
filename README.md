@@ -1,2 +1,2 @@
 # Desafio-Lighthouse---Manutencao-Preditiva
-Arquivos do Desafio Lighthouse
+Arquivos do Desafio Cientista de Dados Lighthouse 
