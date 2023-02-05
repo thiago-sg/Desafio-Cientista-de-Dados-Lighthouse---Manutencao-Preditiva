@@ -1,2 +1,2 @@
-# Desafio-Lighthouse---Manuten-o-Preditiva
+# Desafio-Lighthouse---Manutencaoo-Preditiva
 Arquivos do Desafio Lighthouse
