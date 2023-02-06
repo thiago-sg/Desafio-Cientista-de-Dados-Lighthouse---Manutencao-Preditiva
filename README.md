@@ -1,2 +1,5 @@
 # Desafio-Lighthouse---Manutencao-Preditiva
-Arquivos do Desafio Cientista de Dados Lighthouse 
+
+Desafio Cientista de Dados Lighthouse - Manutenção Preditiva
+
+Para rodar o projeto é necessário abrir o arquivo Jupyter Notebook (ipynb) em uma máquina local ou no Google Colab, contendo as dependências descritas no arquivo requirements.txt.
